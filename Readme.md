@@ -1,6 +1,6 @@
 # Git Course
 
 
-Este é um repósitório teste para ensinar como o git funciona.
+Este ï¿½ um repï¿½sitï¿½rio teste para ensinar como o git funciona.
 
 teste
